@@ -1,0 +1,21 @@
+.Heading {
+    background-image: url('https://png.pngtree.com/thumb_back/fw800/back_pic/02/67/77/60578f0dfe12bb3.jpg');
+    background-size: cover;
+}
+
+.nav_button{
+    font-family: "Calibri",serif;
+    font-size: 20px;
+   
+}
+.footer{
+    background-image: url('https://cdn.hipwallpaper.com/i/44/92/DjoFAH.jpg')
+}
+
+.footer-desc{
+    font-family: "Calibri",serif;
+    font-size: 20px;
+}
+.Content{
+    text-align: Center;
+}
