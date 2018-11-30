@@ -14,8 +14,12 @@
 
 .footer-desc{
     font-family: "Calibri",serif;
-    font-size: 20px;
+    font-size: 15px;
 }
 .Content{
-    text-align: Center;
+    text-align: center;
+}
+.nav-link:hover{
+        box-shadow: 0 14px 18px 0 rgba(0,0,0,0.28), 0 20px 56px 0 rgba(0,0,0,0.21);
+
 }
