@@ -4,9 +4,8 @@
 }
 
 .nav_button{
-    font-family: "Calibri",serif;
+    font-family: "Times-New-Roman",serif;
     font-size: 20px;
-   
 }
 .footer{
     background-image: url('https://cdn.hipwallpaper.com/i/44/92/DjoFAH.jpg')
@@ -21,5 +20,4 @@
 }
 .nav-link:hover{
         box-shadow: 0 14px 18px 0 rgba(0,0,0,0.28), 0 20px 56px 0 rgba(0,0,0,0.21);
-
 }
